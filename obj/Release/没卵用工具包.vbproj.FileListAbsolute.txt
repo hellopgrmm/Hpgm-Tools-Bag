@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\解决方案\没卵用工具包\没卵用工具包\obj\Release\没卵用工具包.Form1.resources
+C:\Users\Administrator\Desktop\解决方案\没卵用工具包\没卵用工具包\obj\Release\没卵用工具包.Resources.resources
+C:\Users\Administrator\Desktop\解决方案\没卵用工具包\没卵用工具包\obj\Release\没卵用工具包.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\解决方案\没卵用工具包\没卵用工具包\obj\Release\没卵用工具包.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\解决方案\没卵用工具包\没卵用工具包\obj\Release\没卵用工具包.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\解决方案\没卵用工具包\没卵用工具包\bin\Release\HpgmToolsBag.exe.config
+C:\Users\Administrator\Desktop\解决方案\没卵用工具包\没卵用工具包\bin\Release\HpgmToolsBag.exe
+C:\Users\Administrator\Desktop\解决方案\没卵用工具包\没卵用工具包\bin\Release\HpgmToolsBag.pdb
+C:\Users\Administrator\Desktop\解决方案\没卵用工具包\没卵用工具包\bin\Release\HpgmToolsBag.xml
+C:\Users\Administrator\Desktop\解决方案\没卵用工具包\没卵用工具包\obj\Release\HpgmToolsBag.exe
+C:\Users\Administrator\Desktop\解决方案\没卵用工具包\没卵用工具包\obj\Release\HpgmToolsBag.xml
+C:\Users\Administrator\Desktop\解决方案\没卵用工具包\没卵用工具包\obj\Release\HpgmToolsBag.pdb
